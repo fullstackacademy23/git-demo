@@ -1,0 +1,9 @@
+* {
+    font-family: sans-serif;
+    padding: 5px;
+    margin: 5px;
+}
+
+ul li {
+    list-style: none;
+}
